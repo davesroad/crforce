@@ -1,0 +1,1 @@
+export default function Opportunities() { return <h2>📋 Opportunities Page (for Sales)</h2>; }

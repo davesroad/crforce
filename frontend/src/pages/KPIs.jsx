@@ -1,0 +1,1 @@
+export default function KPIs() { return <h2>📈 KPIs Page (for Executives)</h2>; }

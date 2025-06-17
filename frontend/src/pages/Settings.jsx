@@ -1,0 +1,1 @@
+export default function Settings() { return <h2>⚙️ Settings Page (for Admins)</h2>; }
